@@ -1,0 +1,23 @@
+body {
+  font-family: Verdana;
+  background-color: cadetblue;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+  background-color: azure;
+  padding: 20px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+td {
+  padding: 5px;
+  border: 1px solid;
+}
