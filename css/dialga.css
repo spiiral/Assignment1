@@ -1,0 +1,41 @@
+body {
+  font-family: Arial;
+  background-color: cadetblue;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+  background-color: azure;
+  padding: 15px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+td {
+  padding: 5px;
+  border: 3px solid;
+}
+
+#diamond {
+  border: 5px solid cornflowerblue;
+  background-color: lightgrey;
+  height: auto;
+  float: left;
+  width: 30%;
+  margin-left: 18%;
+}
+
+#pearl {
+  border: 5px solid lightpink;
+  background-color: lightgrey;
+  height: auto;
+  float: right;
+  width: 30%;
+  margin-right: 18%;
+}
