@@ -1,5 +1,5 @@
 body {
-  font-family: Verdana;
+  font-family: Arial;
   background-color: cadetblue;
   text-align: center;
 }
@@ -8,7 +8,7 @@ a {
   text-decoration: none;
   color: blue;
   background-color: azure;
-  padding: 20px;
+  padding: 15px;
 }
 
 table {
@@ -20,4 +20,22 @@ table {
 td {
   padding: 5px;
   border: 1px solid;
+}
+
+#diamond {
+  border: 5px solid cornflowerblue;
+  background-color: lightgrey;
+  height: 50px;
+  float: left;
+  width: 30%;
+  margin-left: 100px;
+}
+
+#pearl {
+  border: 5px solid lightpink;
+  background-color: lightgrey;
+  height: 50px;
+  float: right;
+  width: 30%;
+  margin-right: 100px;
 }
