@@ -25,17 +25,17 @@ td {
 #diamond {
   border: 5px solid cornflowerblue;
   background-color: lightgrey;
-  height: 50px;
+  height: auto;
   float: left;
   width: 30%;
-  margin-left: 330px;
+  margin-left: 18%;
 }
 
 #pearl {
   border: 5px solid lightpink;
   background-color: lightgrey;
-  height: 50px;
+  height: auto;
   float: right;
   width: 30%;
-  margin-right: 330px;
+  margin-right: 18%;
 }
