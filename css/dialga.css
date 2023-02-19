@@ -19,7 +19,7 @@ table {
 
 td {
   padding: 5px;
-  border: 1px solid;
+  border: 3px solid;
 }
 
 #diamond {
@@ -28,7 +28,7 @@ td {
   height: 50px;
   float: left;
   width: 30%;
-  margin-left: 100px;
+  margin-left: 330px;
 }
 
 #pearl {
@@ -37,5 +37,5 @@ td {
   height: 50px;
   float: right;
   width: 30%;
-  margin-right: 100px;
+  margin-right: 330px;
 }
